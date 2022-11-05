@@ -7,7 +7,7 @@ let imgs = [];
 
 function preload() {
   for (var i = 1; i<5; i++) {
-    img[i-1] = loadImage('https://github.com/soomin0923/seminproject/blob/main/mi' + i + '.png');
+    img[i-1] = loadImage('https://github.com/soomin0923/seminproject/tree/main/img/mi' + i + '.png');
   }
 }
 
